@@ -1,0 +1,72 @@
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\bin\Debug\Kursovaya3.exe.config
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\bin\Debug\Kursovaya3.exe
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\bin\Debug\Kursovaya3.pdb
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.csprojAssemblyReference.cache
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.Form1.resources
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.Properties.Resources.resources
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.csproj.GenerateResource.cache
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.csproj.CoreCompileInputs.cache
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.exe
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.pdb
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.SolveTask.resources
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.csproj.CopyComplete
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.CreateOpen.resources
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.CreateTest.resources
+C:\Users\FROFY\source\repos\Kursovaya3\Kursovaya3\obj\Debug\Kursovaya3.ChoiceQuest.resources
+G:\Новая папка\Мягков Андрей\Kursovaya3\bin\Debug\Kursovaya3.exe.config
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.exe
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.pdb
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.csprojResolveAssemblyReference.cache
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.ChoiceQuest.resources
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.CreateOpen.resources
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.CreateTest.resources
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.Form1.resources
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.Properties.Resources.resources
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.SolveTask.resources
+G:\Новая папка\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.csproj.GenerateResource.Cache
+G:\Новая папка\Мягков Андрей\Kursovaya3\bin\Debug\Kursovaya3.exe
+G:\Новая папка\Мягков Андрей\Kursovaya3\bin\Debug\Kursovaya3.pdb
+G:\Новая папка\Мягков Андрей\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.dll
+G:\Новая папка\Мягков Андрей\Kursovaya3\bin\Debug\Newtonsoft.Json.dll
+G:\Новая папка\Мягков Андрей\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.xml
+G:\Новая папка\Мягков Андрей\Kursovaya3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\bin\Debug\Kursovaya3.exe.config
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.exe
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.pdb
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\bin\Debug\Kursovaya3.exe
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\bin\Debug\Kursovaya3.pdb
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.csprojResolveAssemblyReference.cache
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.ChoiceQuest.resources
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.CreateOpen.resources
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.CreateTest.resources
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.Form1.resources
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.Properties.Resources.resources
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.SolveTask.resources
+C:\Users\Студент.VS-407-002\Desktop\Мягков Андрей\Kursovaya3\obj\Debug\Kursovaya3.csproj.GenerateResource.Cache
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\bin\Debug\Kursovaya3.exe.config
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\bin\Debug\Kursovaya3.exe
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\bin\Debug\Kursovaya3.pdb
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\bin\Debug\Newtonsoft.Json.dll
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\bin\Debug\Newtonsoft.Json.xml
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.csprojAssemblyReference.cache
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.ChoiceQuest.resources
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.CreateOpen.resources
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.CreateTest.resources
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.Form1.resources
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.Properties.Resources.resources
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.SolveTask.resources
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.csproj.GenerateResource.cache
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.csproj.CoreCompileInputs.cache
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.csproj.CopyComplete
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.exe
+E:\Новая папка\Мягков Андрей переделанная\Kursovaya3\obj\Debug\Kursovaya3.pdb
